@@ -21,6 +21,7 @@ This repository contains resources, datasets, and analysis work to track perform
 - **Excel** (raw data storage and simple reporting)  
 
 ---
+NOTE:Below the file, I provided different methods of the analysis program
 
 ## 📂 Repository Structure
 ```bash
@@ -31,3 +32,6 @@ OJISD-Water-Business/
 ├── reports/           # Visual reports & summaries
 ├── images/            # Charts, graphs, and branding assets
 └── README.md          # Project documentation
+---
+
+
